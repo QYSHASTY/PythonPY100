@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 7
-    length: 97
+    length: 92
     placeholder_text: '...  # TODO используйте отрицательный шаг, чтобы числа шли
       в обратном порядке'
     initial_state:

@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 61
-    length: 64
+    length: 59
     placeholder_text: '...  # TODO установить переменной значение радиуса круга'
     initial_state:
       length: 56
@@ -18,8 +18,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 5
-  - offset: 134
-    length: 75
+  - offset: 129
+    length: 70
     placeholder_text: '...  # TODO использую оператор возведения в степень найти площадь
       круга'
     initial_state:

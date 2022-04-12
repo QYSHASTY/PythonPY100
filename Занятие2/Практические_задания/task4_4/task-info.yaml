@@ -7,7 +7,7 @@ files:
   visible: true
   placeholders:
   - offset: 66
-    length: 120
+    length: 115
     placeholder_text: '# TODO заменить значение 5-го элемента средним арифметическим'
     initial_state:
       length: 61

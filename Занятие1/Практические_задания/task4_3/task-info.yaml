@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 14
-    length: 57
+    length: 52
     placeholder_text: '...  # TODO список чисел кратных 17'
     initial_state:
       length: 35
@@ -18,7 +18,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: list(range(17, 100, 17))
-  - offset: 79
+  - offset: 74
     length: 18
     placeholder_text: '...)  # TODO количество чисел кратных 17'
     initial_state:

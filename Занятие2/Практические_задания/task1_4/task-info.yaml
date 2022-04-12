@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 12
-    length: 49
+    length: 44
     placeholder_text: '...  # TODO запишите логическое выражение'
     initial_state:
       length: 41
@@ -18,7 +18,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 20 <= 11
-  - offset: 69
+  - offset: 64
     length: 9
     placeholder_text: '...'
     initial_state:

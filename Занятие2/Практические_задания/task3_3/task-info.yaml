@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 15
-    length: 63
+    length: 58
     placeholder_text: '...:  # ToDo условие проверки времени суток'
     initial_state:
       length: 43

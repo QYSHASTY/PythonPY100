@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 197
-    length: 150
+    length: 145
     placeholder_text: '# TODO добавить блок else и выдавать пользователю любое предупреждение
       о том, что месяц указан неверно'
     initial_state:

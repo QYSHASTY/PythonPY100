@@ -10,7 +10,7 @@ files:
   visible: true
   placeholders:
   - offset: 17
-    length: 88
+    length: 83
     placeholder_text: '...  # TODO используя оператор целочисленного деления найти
       количество десятков'
     initial_state:
@@ -20,8 +20,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: number // 10
-  - offset: 110
-    length: 81
+  - offset: 105
+    length: 76
     placeholder_text: '...  # TODO используя оператор остаток от деления найти количество
       единиц'
     initial_state:
@@ -31,8 +31,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: number % 10
-  - offset: 282
-    length: 63
+  - offset: 272
+    length: 58
     placeholder_text: '...)  # TODO вычисления можно производить прямо в функции print'
     initial_state:
       length: 63

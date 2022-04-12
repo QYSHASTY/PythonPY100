@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 38
-    length: 66
+    length: 61
     placeholder_text: '...  # TODO заводим переменную для суммы'
     initial_state:
       length: 40
@@ -18,8 +18,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 0
-  - offset: 124
-    length: 63
+  - offset: 119
+    length: 58
     placeholder_text: |-
       ...:  # TODO диапазон чисел
               ...
@@ -32,7 +32,7 @@ files:
     encrypted_possible_answer: |-
       range(10):
               sum_ += number
-  - offset: 193
+  - offset: 183
     length: 12
     placeholder_text: '# TODO печатаем ответ'
     initial_state:

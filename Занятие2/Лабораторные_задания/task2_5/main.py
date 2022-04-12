@@ -8,7 +8,7 @@ for number in list_:
         count_even =+ count_even
     else:
         count_odd =+ count_odd
-# TODO посчитать количество четных и нечетных значений в списке
+# посчитать количество четных и нечетных значений в списке
 
 if count_even > count_odd:
     print('Четных чисел больше')

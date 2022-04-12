@@ -5,7 +5,7 @@ if __name__ == "__main__":
     min_value_index = 0
     min_value = list_[min_value_index]
 
-    # TODO заменить на enumerate
+    # заменить на enumerate
     for index, value in enumerate(list_):
         if value <= min_value:
              min_value = value

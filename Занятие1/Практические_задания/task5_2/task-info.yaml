@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 58
-    length: 76
+    length: 71
     placeholder_text: '...  # TODO кортеж может сам развернуть свои значения по переменным'
     initial_state:
       length: 67

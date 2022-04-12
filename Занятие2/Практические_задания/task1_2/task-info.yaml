@@ -19,14 +19,14 @@ files:
     status: Solved
     encrypted_possible_answer: <
   - offset: 14
-    length: 73
+    length: 68
     placeholder_text: '  # TODO Вставьте любой оператор сравнения, чтобы выражение
       было истинным'
     initial_state:
       length: 73
       offset: 16
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: '  # TODO'
   text: |

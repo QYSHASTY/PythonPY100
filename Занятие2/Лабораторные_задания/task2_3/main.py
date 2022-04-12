@@ -27,6 +27,6 @@ if __name__ == "__main__":
         "Соловьёв"
     ]
 
-    for index, value in enumerate(surname_list):  # TODO как за один раз получать пару индекс-значение?
-        print(index + 1, value)  # TODO как тогда должен выглядеть индекс?
-    # TODO распечатать фамилии и их номера
+    for index, value in enumerate(surname_list):  # как за один раз получать пару индекс-значение?
+        print(index + 1, value)  # как тогда должен выглядеть индекс?
+    # распечатать фамилии и их номера

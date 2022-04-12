@@ -1,4 +1,4 @@
-A = int(input("введите число"))# TODO
+A = int(input("введите число"))
 
 cond_1 = A % 2 == 0
 cond_2 = A % 3 == 0

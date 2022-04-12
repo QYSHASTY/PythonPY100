@@ -1,3 +1,3 @@
-condition = not 20 > 11  # TODO запишите логическое выражение
+condition = not 20 > 11  # запишите логическое выражение
 
 print(condition)

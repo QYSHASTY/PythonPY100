@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 8
-    length: 113
+    length: 108
     placeholder_text: '...  # TODO запросить месяц у пользователя. Номер месяца -
       целочисленное значение!'
     initial_state:
@@ -14,8 +14,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: int(input())
-  - offset: 126
-    length: 65
+  - offset: 121
+    length: 60
     placeholder_text: '...:  # TODO записать условие через операторы or'
     initial_state:
       length: 48
@@ -24,8 +24,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 'mount == 3 or mount == 4 or mount == 5:'
-  - offset: 225
-    length: 69
+  - offset: 215
+    length: 64
     placeholder_text: '...:  # TODO проверить вхождение месяца в список месяцев лета'
     initial_state:
       length: 61
@@ -34,8 +34,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: '[6, 7, 8]:'
-  - offset: 327
-    length: 71
+  - offset: 312
+    length: 66
     placeholder_text: '...:  # TODO проверить вхождение месяца в кортеж месяцев осени'
     initial_state:
       length: 62
@@ -44,8 +44,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: '(9, 10, 11):'
-  - offset: 432
-    length: 87
+  - offset: 412
+    length: 82
     placeholder_text: '...:  # TODO проверить вхождение месяца в множество месяцев
       лета'
     initial_state:

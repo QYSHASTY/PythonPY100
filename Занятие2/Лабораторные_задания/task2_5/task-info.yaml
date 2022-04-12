@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 126
-    length: 183
+    length: 178
     placeholder_text: '# TODO посчитать количество четных и нечетных значений в списке'
     initial_state:
       length: 63

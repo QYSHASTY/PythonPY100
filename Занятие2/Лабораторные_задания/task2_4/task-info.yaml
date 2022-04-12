@@ -19,7 +19,7 @@ files:
   visible: true
   placeholders:
   - offset: 76
-    length: 41
+    length: 36
     placeholder_text: '...  # TODO чему равно начальное смещение?'
     initial_state:
       length: 42
@@ -28,8 +28,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 5
-  - offset: 316
-    length: 63
+  - offset: 301
+    length: 58
     placeholder_text: '# TODO как использовать начальное смещение в команде enumerate?'
     initial_state:
       length: 63

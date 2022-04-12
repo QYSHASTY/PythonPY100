@@ -9,14 +9,14 @@ files:
   visible: true
   placeholders:
   - offset: 39
-    length: 25
+    length: 44
     placeholder_text: '# TODO сложить два списка'
     initial_state:
       length: 25
       offset: 39
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: print(list_1 + list_2)
   text: |
     list_1 = [1, 2, 3]
@@ -27,5 +27,8 @@ files:
 - name: __init__.py
   visible: false
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 06 Apr 2022 20:00:44 UTC
 record: -1

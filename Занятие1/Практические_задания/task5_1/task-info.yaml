@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 20
-    length: 46
+    length: 41
     placeholder_text: '# TODO поменяйте значения местами'
     initial_state:
       length: 33

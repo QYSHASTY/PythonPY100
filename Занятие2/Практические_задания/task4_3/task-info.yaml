@@ -51,7 +51,7 @@ files:
     status: Solved
     encrypted_possible_answer: 'enumerate(rus_alphabet, start=1):'
   - offset: 201
-    length: 58
+    length: 53
     placeholder_text: '..., value)  # TODO как тогда должен выглядеть индекс?'
     initial_state:
       length: 54

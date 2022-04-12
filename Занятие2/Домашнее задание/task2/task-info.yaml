@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 110
-    length: 19
+    length: 11
     placeholder_text: '...)  # TODO'
     initial_state:
       length: 12
