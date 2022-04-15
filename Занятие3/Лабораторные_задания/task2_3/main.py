@@ -1,7 +1,11 @@
 def get_unique_words(str_words: str):
-    ...  # TODO найти список слов в строке исключив пустые строки
 
-    ...  # TODO вывести множество уникальных слов
+    words_list = str_words.split(" ")  # разделить строку по пробелам
+    un_list = list(set(words_list))
+
+    return un_list
+
+    print(un_list)
 
 
 if __name__ == "__main__":

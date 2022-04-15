@@ -1,5 +1,12 @@
-# TODO запишите здесь функцию factorial
+def get_factorial(number):
+    current_factorial = 1
+
+    for i in range(1, number + 1):
+        current_factorial *= i
+
+    return current_factorial
+
 
 
 if __name__ == "__main__":
-    # TODO распечатать результат выполнения функции factorial от числа 5
+    print(get_factorial(5))

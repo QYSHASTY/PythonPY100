@@ -6,8 +6,9 @@ def dict_over_for_loop(n: int) -> dict:
     return dict_
 
 
+
 def dict_comprehension(n: int) -> dict:
-    return {...}  # TODO записать dict comprehension
+    return {i: i ** 2 for i in range(n)}
 
 
 if __name__ == "__main__":
